@@ -1,5 +1,5 @@
 # Hi 👋, I’m Asha H P
-A passionate Frontend Developer from India 🇮🇳<br><br>🚀 Skilled in HTML, CSS, and JavaScript, and sharpening my JavaScript knowledge by creating small projects daily<br>📘 Strengthening problem-solving skills through DSA practice (currently learning Stack)<br>✍️ I share weekly updates on [LinkedIn](https://www.linkedin.com/in/ashahp16/)  <br>📑 Check out my [Resume](https://drive.google.com/file/d/1KcxCLtUJE382peQsErSdV_oUHP4kEwXB/view?usp=sharing)  <br>📫 Reach me at [Email](mailto:ashahp2003@gmail.com)
+# A passionate Frontend Developer from India 🇮🇳<br><br>🚀 Skilled in HTML, CSS, and JavaScript, and sharpening my JavaScript knowledge by creating small projects daily<br>📘 Strengthening problem-solving skills through DSA practice (currently learning Stack)<br>✍️ I share weekly updates on [LinkedIn](https://www.linkedin.com/in/ashahp16/)  <br>📑 Check out my [Resume](https://drive.google.com/file/d/1KcxCLtUJE382peQsErSdV_oUHP4kEwXB/view?usp=sharing)  <br>📫 Reach me at [Email](mailto:ashahp2003@gmail.com)
 
 
 ## 🌐 Socials:
