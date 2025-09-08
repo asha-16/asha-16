@@ -1,6 +1,4 @@
-<p align="center">
-Hi 👋, I'm Asha H P
-</p>
+<h1 align="center"><b>Hi 👋, I'm Asha H P</b></h1>
 
 <p align="center">A passionate Frontend Developer from India 🇮🇳</p><br>
 
