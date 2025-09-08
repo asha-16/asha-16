@@ -1,4 +1,6 @@
-# Hi 👋, I’m Asha H P
+<p align="center">
+Hi 👋, I'm Asha H P
+</p>
 
 <p align="center">A passionate Frontend Developer from India 🇮🇳</p><br>
 
