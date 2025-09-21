@@ -6,7 +6,7 @@
 📘 Strengthening problem-solving skills through DSA practice (currently learning Stack)<br>
 ✍️ I share weekly updates on [LinkedIn](https://www.linkedin.com/in/ashahp16/)  <br>
 📑 Check out my [Resume](https://drive.google.com/file/d/1KcxCLtUJE382peQsErSdV_oUHP4kEwXB/view?usp=sharing)  <br>
-📫 Reach me at [Email](mailto:ashahp2003@gmail.com)
+📫 Reach me at [Email](mailto:ashahp.work@gmail.com)
 
 
 # GitHub Stats:
