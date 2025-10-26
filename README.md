@@ -3,16 +3,14 @@
 <p align="center">A passionate Frontend Developer from India 🇮🇳</p><br>
 
 🚀 Skilled in HTML, CSS, and JavaScript, and sharpening my JavaScript knowledge by creating small projects daily<br>
-📘 Strengthening problem-solving skills through DSA practice (currently learning Stack)<br>
-✍️ I share weekly updates on [LinkedIn](https://www.linkedin.com/in/ashahp16/)  <br>
+📑 Check out my [LinkedIn](https://www.linkedin.com/in/ashahp16/) Profile <br>
 📑 Check out my [Resume](https://drive.google.com/file/d/1KcxCLtUJE382peQsErSdV_oUHP4kEwXB/view?usp=sharing)  <br>
 📫 Reach me at [Email](mailto:ashahp.work@gmail.com)
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asha-16&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asha-16&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=asha-16&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asha-16&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## Socials:
