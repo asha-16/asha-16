@@ -15,9 +15,9 @@
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashahp16/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashahp2003@gmail.com)  
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-0CF?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/asha-16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashahp16/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashahp2003@gmail.com) [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-0CF?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/asha-16)
+
+
 
 
 # Tech Stack:
