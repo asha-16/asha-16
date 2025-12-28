@@ -4,7 +4,7 @@
 
 🚀 Skilled in HTML, CSS, and JavaScript, and sharpening my JavaScript knowledge by creating small projects daily<br>
 📑 Check out my [LinkedIn](https://www.linkedin.com/in/ashahp11) Profile <br>
-📑 Check out my [Resume](https://drive.google.com/file/d/1H9UYjdgk4GIeoCOoZu3w5c_6gOjl3Mc1/view?usp=drive_link)  <br>
+📑 Check out my [Resume](https://drive.google.com/file/d/1Vj_fwO3eFsVi3AHdZzymtNxWthkYQXb0/view?usp=drive_link)  <br>
 📑 Check out my [Frontend Mentor](https://www.frontendmentor.io/profile/asha-16) Profile <br>
 📫 Reach me at [Email](mailto:ashahp.work@gmail.com) 
 
