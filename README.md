@@ -6,6 +6,7 @@
 📑 Check out my [LinkedIn](https://www.linkedin.com/in/ashahp11) Profile <br>
 📑 Check out my [Resume](https://drive.google.com/file/d/1NtntuQNWCvujUpXtGPNFfcMiG5AOn7Vy/view?usp=drive_link)  <br>
 📑 Check out my [Frontend Mentor](https://www.frontendmentor.io/profile/asha-16) Profile <br>
+📑 Check out my [Portfolio](https://asha-dev-portfolio.vercel.app/)<br>
 📫 Reach me at [Email](mailto:ashahp.work@gmail.com) 
 
 
